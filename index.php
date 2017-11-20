@@ -2,9 +2,9 @@
 
 ini_set('display_errors', 'On');
 error_reporting(E_ALL);
-define('DATABASE', 'kwilliam');
-define('USERNAME', 'kwilliam');
-define('PASSWORD', 'ma9euXF1H');
+define('DATABASE', 'as3447');
+define('USERNAME', 'as3447');
+define('PASSWORD', 'h6TkdCPF');
 define('CONNECTION', 'sql2.njit.edu');
 class dbConn{
    
